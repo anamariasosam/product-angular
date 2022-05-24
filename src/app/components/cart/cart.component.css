@@ -14,9 +14,3 @@
   border-collapse: collapse;
   text-align: right;
 }
-
-.products {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
